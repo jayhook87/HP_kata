@@ -4,13 +4,11 @@ class HPBooks
     @total = 0
   end
 
-  def buy_books(number_of_book_1, number_of_book_2, number_of_book_3, number_of_book_4, number_of_book_5)
+  def buy_books(*number_of_books)
 
 
-    array_of_books = [number_of_book_1, number_of_book_2, number_of_book_3, number_of_book_4, number_of_book_5]
-
-    while array_of_books.any? { |x| x > 0 }
-      number_in_set = number_of_non_zero_elements(array_of_books)
+    while number_of_books.any? { |x| x > 0 }
+      number_in_set = number_of_non_zero_elements(number_of_books)
 
 
       case number_in_set
@@ -34,7 +32,7 @@ class HPBooks
       subtotal = (number_in_set * 8) - discount
 
 
-      sub_one_from_each_element(array_of_books)
+      sub_one_from_each_element(number_of_books)
       @total += subtotal
     end
     @total

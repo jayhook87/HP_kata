@@ -15,7 +15,7 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/harry_potter@HPBooks_one_book_is_8_dollars__harry_potter.coverage" NAME="HPBooks one book is 8 dollars: harry_potter Coverage Results" MODIFIED="1536680535514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="harry_potter" />
-    <SUITE FILE_PATH="coverage/harry_potter@Run_spec__harry_potter_books_spec___harry_potter.coverage" NAME="Run spec 'harry_potter_books_spec': harry_potter Coverage Results" MODIFIED="1536760138841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="harry_potter" />
+    <SUITE FILE_PATH="coverage/harry_potter@Run_spec__harry_potter_books_spec___harry_potter.coverage" NAME="Run spec 'harry_potter_books_spec': harry_potter Coverage Results" MODIFIED="1536764041883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="harry_potter" />
     <SUITE FILE_PATH="coverage/harry_potter@HPBooks__harry_potter.coverage" NAME="HPBooks: harry_potter Coverage Results" MODIFIED="1536758498634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="harry_potter" />
     <SUITE FILE_PATH="coverage/harry_potter@HPBooks_two_copies_of_one_book_is_16_dollars__harry_potter.coverage" NAME="HPBooks two copies of one book is 16 dollars: harry_potter Coverage Results" MODIFIED="1536680549043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="harry_potter" />
     <SUITE FILE_PATH="coverage/harry_potter@HPBooks_one_copy_of_a_book_is_8_dollars__harry_potter.coverage" NAME="HPBooks one copy of a book is 8 dollars: harry_potter Coverage Results" MODIFIED="1536758668089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="harry_potter" />
@@ -33,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/spec/harry_potter_books_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -42,8 +42,8 @@
       <file leaf-file-name="harry_potter_books.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/harry_potter_books.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5472103">
-              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state vertical-scroll-proportion="1.2875537">
+              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -453,34 +453,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Run_spec__harry_potter_books_spec___harry_potter - 2018.09.12 at 09h 35m 12s.xml">
+    <history-entry file="Run_spec__harry_potter_books_spec___harry_potter - 2018.09.12 at 10h 44m 45s.xml">
       <configuration name="Run spec 'harry_potter_books_spec': harry_potter" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec__harry_potter_books_spec___harry_potter - 2018.09.12 at 09h 38m 21s.xml">
+    <history-entry file="Run_spec__harry_potter_books_spec___harry_potter - 2018.09.12 at 10h 46m 27s.xml">
       <configuration name="Run spec 'harry_potter_books_spec': harry_potter" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec__harry_potter_books_spec___harry_potter - 2018.09.12 at 09h 38m 50s.xml">
+    <history-entry file="Run_spec__harry_potter_books_spec___harry_potter - 2018.09.12 at 10h 47m 15s.xml">
       <configuration name="Run spec 'harry_potter_books_spec': harry_potter" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec__harry_potter_books_spec___harry_potter - 2018.09.12 at 09h 39m 16s.xml">
+    <history-entry file="Run_spec__harry_potter_books_spec___harry_potter - 2018.09.12 at 10h 47m 25s.xml">
       <configuration name="Run spec 'harry_potter_books_spec': harry_potter" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec__harry_potter_books_spec___harry_potter - 2018.09.12 at 09h 39m 33s.xml">
+    <history-entry file="Run_spec__harry_potter_books_spec___harry_potter - 2018.09.12 at 10h 48m 40s.xml">
       <configuration name="Run spec 'harry_potter_books_spec': harry_potter" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec__harry_potter_books_spec___harry_potter - 2018.09.12 at 09h 41m 13s.xml">
+    <history-entry file="Run_spec__harry_potter_books_spec___harry_potter - 2018.09.12 at 10h 49m 12s.xml">
       <configuration name="Run spec 'harry_potter_books_spec': harry_potter" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec__harry_potter_books_spec___harry_potter - 2018.09.12 at 09h 41m 33s.xml">
+    <history-entry file="Run_spec__harry_potter_books_spec___harry_potter - 2018.09.12 at 10h 51m 03s.xml">
       <configuration name="Run spec 'harry_potter_books_spec': harry_potter" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec__harry_potter_books_spec___harry_potter - 2018.09.12 at 09h 44m 35s.xml">
+    <history-entry file="Run_spec__harry_potter_books_spec___harry_potter - 2018.09.12 at 10h 52m 40s.xml">
       <configuration name="Run spec 'harry_potter_books_spec': harry_potter" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec__harry_potter_books_spec___harry_potter - 2018.09.12 at 09h 47m 31s.xml">
+    <history-entry file="Run_spec__harry_potter_books_spec___harry_potter - 2018.09.12 at 10h 53m 53s.xml">
       <configuration name="Run spec 'harry_potter_books_spec': harry_potter" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec__harry_potter_books_spec___harry_potter - 2018.09.12 at 09h 48m 59s.xml">
+    <history-entry file="Run_spec__harry_potter_books_spec___harry_potter - 2018.09.12 at 10h 54m 02s.xml">
       <configuration name="Run spec 'harry_potter_books_spec': harry_potter" configurationId="RSpecRunConfigurationType" />
     </history-entry>
   </component>
@@ -493,11 +493,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286517" sideWeight="0.5028612" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270073" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38930348" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38930348" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32805756" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39450866" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39427862" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963504" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -512,22 +512,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/spec/harry_potter_books_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/harry_potter_books.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5472103">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        <state vertical-scroll-proportion="1.2875537">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
         </state>
       </provider>
